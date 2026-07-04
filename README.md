@@ -23,6 +23,8 @@ Should look like this once it is assembled
 <img width="480" height="640" alt="IMG_1800" src="https://github.com/user-attachments/assets/6c4003e8-5a35-43a2-9799-002eaa8f5b69" />
 
 
+Demo and stl file on printable page: https://www.printables.com/model/1771805-car-bin
+
 Credits:
 fusion 360,
 Macondo HackClub
